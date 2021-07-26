@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "j0WywOMIL8cpCX1KyDTHfAjuYjFSHLmr4WhU9p496PZDhnZHDjOUiggldalIeczJOc+n6mFAP2S+RkhWy2QdYA==",
+  "dgSpecHash": "1zooZlEuLIBklE3YVKyLaTuW4aqNsHTifogmpnUSPdpgNYhZLCFjEhQ6U76wCNJNuNkHPgRtcNrpwPOCf7KTXA==",
   "success": true,
   "projectFilePath": "/Users/danu/Documents/Code Project/dotnet/netMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
     "/Users/danu/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/Users/danu/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.8/microsoft.aspnetcore.jsonpatch.5.0.8.nupkg.sha512",
+    "/Users/danu/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.8/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.8.nupkg.sha512",
+    "/Users/danu/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/danu/.nuget/packages/microsoft.entityframeworkcore/5.0.8/microsoft.entityframeworkcore.5.0.8.nupkg.sha512",
     "/Users/danu/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.8/microsoft.entityframeworkcore.abstractions.5.0.8.nupkg.sha512",
     "/Users/danu/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.8/microsoft.entityframeworkcore.analyzers.5.0.8.nupkg.sha512",
@@ -24,6 +27,8 @@
     "/Users/danu/.nuget/packages/mongodb.driver/2.13.0/mongodb.driver.2.13.0.nupkg.sha512",
     "/Users/danu/.nuget/packages/mongodb.driver.core/2.13.0/mongodb.driver.core.2.13.0.nupkg.sha512",
     "/Users/danu/.nuget/packages/mongodb.libmongocrypt/1.2.1/mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "/Users/danu/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/danu/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/danu/.nuget/packages/sharpcompress/0.23.0/sharpcompress.0.23.0.nupkg.sha512",
     "/Users/danu/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/Users/danu/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
